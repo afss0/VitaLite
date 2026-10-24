@@ -57,5 +57,3 @@ VitaLite is a launcher for RuneLite that offers additional features and customiz
 ## Disclaimer
 
 VitaLite is a third-party loader for RuneLite. Use at your own risk. The developers are not responsible for any consequences resulting from the use of this software.
-
-## [Buy me a coffee](https://ko-fi.com/tonicbox)
